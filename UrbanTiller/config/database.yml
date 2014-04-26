@@ -20,6 +20,7 @@ test:
   database: UrbanTiller_test
   pool: 5
   timeout: 5000
+  host: 'localhost'
 
 production:
   adapter: postgresql
@@ -27,3 +28,4 @@ production:
   database: UrbanTiller_production
   pool: 5
   timeout: 5000
+  host: 'localhost'
