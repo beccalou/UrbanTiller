@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
 gem 'pg'
-
 gem 'rspec-rails'
-
+gem 'validate_url'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
 
