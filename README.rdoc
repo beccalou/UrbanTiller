@@ -1,25 +1,24 @@
-== README
+== UrbanTiller - an app that maps U.S. urban farms
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+== Description
+UrbanTiller is a simple application created to encourage city dwellers to support local agriculture. 
 
-Things you may want to cover:
 
-* Ruby version
+* Coming soon:  Ruby version
 
-* System dependencies
+* Coming soon:  System dependencies
 
-* Configuration
+* Coming son: Configuration
 
-* Database creation
+* Coming soon:  Database creation
 
-* Database initialization
+* Coming soon:  Database initialization
 
-* How to run the test suite
+* Coming soon:  How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Coming soon:  Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+* Coming soon:  Deployment instructions
 
 * ...
 
